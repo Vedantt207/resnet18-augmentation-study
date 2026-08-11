@@ -85,7 +85,7 @@ Open the notebook in Google Colab (recommended for GPU access):
 Or clone and run locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cutmix-benchmark.git
+git clone https://github.com/Vedantt207/cutmix-benchmark.git
 cd cutmix-benchmark
 jupyter notebook cutmix_benchmark.ipynb
 ```
